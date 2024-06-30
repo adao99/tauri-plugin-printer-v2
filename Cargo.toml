@@ -1,5 +1,5 @@
 [package]
-name = "tauri-plugin-printer-v2"
+name = "adao99-tauri-plugin-printer"
 version = "1.0.10"
 edition = "2021"
 authors = ["Alfian Lensun <alfianlensundev@gmail.com>"]
